@@ -50,6 +50,7 @@ Ao adicionar o seu nome, por favor observe:
 | André Luiz Félix da Rosa       | Andre2011349@aluno.univesp.br           | https://github.com/Andre2011349           |
 | André Santos da Silva          | andretec1979@gmail.com                  | https://github.com/andresansil            |
 | André Taveira                  | andretaveirati@gmail.com                | https://github.com/taveiradev             |
+| Angela Talyta                  | tatazinhagms2@gmail.com                 | https://github.com/tatazinhaang           |
 | Anthony Levi Tavares           | player559001@gmail.com                  | https://github.com/aCube1                 |
 | Anthony Louis G. Ferreira      | anthony.physis@gmail.com                | https://github.com/anthonylgf             |
 | Antonio Gabriel                | antonioggca000@gmail.com                | https://github.com/antonioGabrielGomes    |
@@ -141,6 +142,7 @@ Ao adicionar o seu nome, por favor observe:
 | Gabriel Rocha                  | gabriel.gabrielroch@gmail.com           | https://github.com/G4BR13LR0CH4           |
 | Gabriel Rocha Ferreira         | osprogramadores@gabrf.com               | https://github.com/GabrielRF              |
 | Gabriel Thiago da S. Ferreira  | gabriel.ferreira@dcomp.ufs.br           | https://github.com/GabrielF9              |
+| Gabriele Campos                | gabrieleccgomes26@gmail.com             | https://github.com/gabrieleg8             |
 | Geraldo Júnior                 | geraldo.junior0207@gmail.com            | https://github.com/GeraldinJr             |
 | Giovane Da Silva Sobrinho      | giovane.sobrinho@gmail.com              | https://github.com/silvasobrinho          |
 | Giovanni Martins               | giovannimartins2000@gmail.com           | https://github.com/GiovanniSM20           |
@@ -263,6 +265,7 @@ Ao adicionar o seu nome, por favor observe:
 | Marcos Teruo Ouchi             | marcos.teruo.ouchi@gmail.com            | https://github.com/nixware                |
 | Marcos Vinicio de Souza Rocha  | mavinicius95@gmail.com                  | https://github.com/mavinicius95           |
 | Marcos Vinícius Costa Moreira  | marcosmoreira@id.uff.br                 | https://github.com/Vinissokkj             |
+| Marcus Wendell M Siqueira Lima | mwendellsmce@gmail.com                  | https://github.com/mwendellsmce           |
 | Maria Bruna de Oliveira        | bruna.o.fon100@gmail.com                | https://github.com/bruna-luc              |
 | Mariana Lira                   | marilira2006@gmail.com                  | https://github.com/marilira               |
 | Mario Idival Gomes Duarte      | marioidival@gmail.com                   | https://github.com/marioidival            |
